@@ -1,0 +1,13 @@
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\bin\Debug\TextToMorse.exe.config
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\bin\Debug\TextToMorse.exe
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\bin\Debug\TextToMorse.pdb
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\bin\Debug\TextToMorse.xml
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.vbproj.AssemblyReference.cache
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.vbproj.SuggestedBindingRedirects.cache
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.Form1.resources
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.Resources.resources
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.vbproj.GenerateResource.cache
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.vbproj.CoreCompileInputs.cache
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.exe
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.xml
+C:\Поли\Projects\First-Steps-with-Visual-Basic\TextToMorse\obj\Debug\TextToMorse.pdb
